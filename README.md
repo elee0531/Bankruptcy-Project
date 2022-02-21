@@ -3,6 +3,13 @@ From Polish companies bankruptcy data Set
 
 64 attributes with classification of bankruptcy and solvency
 
-Model used : 5 cross validation with PCA, Logistic regression, KNN, Random Forest, Gradient Boosting Models
+- Data loading
+- Missing value imputation
+- Outlier detection with IQR method
+- EDA utilizing pairplot & correlation matrix
+- Feature selection : PCA, Chi-sqd, Random Forest, Recursive Feature Elimination, ANOVA test (A1~A4)
+- Data balancing : Over-sampling the imbalanced data (A5)
+- Modeling : Hyperparameter tuning by Grid Search and 5 cross validation with Logistic regression, K Nearest Neighbor, Random Forest, Gradient Boosting Models
+- Conclusion
 
 https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
