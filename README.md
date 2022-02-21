@@ -1,5 +1,5 @@
 # Bankruptcy-Project
-From Polish companies bankruptcy data Set
+From Polish companies bankruptcy data Set (https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data)
 
 64 attributes with classification of bankruptcy and solvency
 
@@ -12,4 +12,3 @@ From Polish companies bankruptcy data Set
 - Modeling : Hyperparameter tuning by Grid Search and 5 cross validation with Logistic regression, K Nearest Neighbor, Random Forest, Gradient Boosting Models
 - Conclusion
 
-https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
